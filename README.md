@@ -1,1 +1,1 @@
-# flask app generation for simple calculator
+# Flask app generation for simple calculator
